@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Email Response Gen](https://github.com/luismolinuevo/email-response-gen)
 
-- 🌱 I’m currently learning **Python, FastAPI, more about AI**
+- 🌱 I’m currently learning **Python, FastAPI, more about AI, improving my api development**
 
 - 👯 I’m looking to collaborate on **Anything. I just want to learn**
 
