@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luismolinuevo&label=Profile%20views&color=0e75b6&style=flat" alt="luismolinuevo" /> </p>
 
-- 🔭 I’m currently working on [Email Response Gen](https://github.com/luismolinuevo/email-response-gen)
+- 🔭 I’m currently working on a Event API and [Email Response Gen](https://github.com/luismolinuevo/email-response-gen)
 
 - 🌱 I’m currently learning **Python, FastAPI, more about AI, improving my api development**
 
